@@ -1,5 +1,5 @@
-<code>🎓 Student: KPI / ІП-04</code>
-<code>👷 Speciality: Software engineer / Backend (Junior Back-End Engineer at [ein-des-ein](https://ein-des-ein.com/))</code><br>
+<code>🎓 Student: KPI / ІМ-41мн</code>
+<code>👷 Speciality: Software engineer / Backend (Software Engineer at [Liven by SKELAR](https://www.skelar.tech/))</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
