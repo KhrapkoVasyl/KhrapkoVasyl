@@ -1,3 +1,4 @@
 # List of projects
 
-[Ecastasify🎵](https://github.com/KhrapkoVasyl/Ecstasify)
+- [Backend for App for preliminary diagnosis of diseases🩺](https://github.com/KhrapkoVasyl/preliminary-diagnosis-backend)
+- [Ecastasify🎵](https://github.com/KhrapkoVasyl/Ecstasify)
